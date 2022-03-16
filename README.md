@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @v1mnt
 - 👨‍💻 Always learning new technologies
-- 🎓 System analysis and development
 
 <div>
   <img height="em" src="https://github-readme-stats.vercel.app/api?username=v1mnt&show_icons=true&theme=radical">
