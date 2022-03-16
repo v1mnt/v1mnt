@@ -2,10 +2,7 @@
 - 👨‍💻 Always learning new technologies
 
 <div>
-  <img height="em" src="https://github-readme-stats.vercel.app/api?username=v1mnt&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1mnt&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1mnt&langs_count=8">
 </div>
 
-<!---
-v1mnt/v1mnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
