@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @v1mnt
 - 👨‍💻 Always learning new technologies
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1mnt&show_icons=true&theme=radical">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1mnt&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1mnt&layout=compact&theme=radical">
 </div>
 
 
